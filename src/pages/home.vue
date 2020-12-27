@@ -1,0 +1,17 @@
+// 首页
+<template>
+  <div>
+    <Index></Index>
+  </div>
+</template>
+
+<script>
+  import Index from '../components/Index'
+
+  export default{
+    components:{
+      Index
+
+    }
+  }
+</script>
